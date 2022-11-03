@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
 import math
-import matplotlib.pyplot as plt
 from collections import defaultdict
 import streamlit as st
 from PIL import Image
